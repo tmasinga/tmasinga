@@ -3,7 +3,7 @@
 **tmasinga/tmasinga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 # 🌟 Tinyiko Masinga
-Data Analyst | Financial Dashboards | Digital Marketing | Product Development
+Data Science | Data Analyst | Data Visualization | Product Development
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/tmasinga/tmasinga/main/tmasinga.png" alt="Portfolio Banner" width="100%">
