@@ -2,11 +2,14 @@
 <!--
 **tmasinga/tmasinga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<!--
+**tmasinga/tmasinga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 # 🌟 Tinyiko Masinga
 Data Science | Data Analyst | Data Visualization | Product Development
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tmasinga/tmasinga/main/tmasinga.png" alt="Portfolio Banner" width="100%">
+  <img src="./assets/banner.svg" alt="Tinyiko Masinga banner" width="100%">
 </p>
 
 <p align="center">
@@ -91,13 +94,3 @@ If you like my dashboards or projects, please star my repos — it helps a lot!
 
 ---
 
-## Quick setup (drop-in)
-1. Create a public repository named exactly `tmasinga` in your GitHub account.  
-2. Add this README.md to the repo root and push.  
-3. Create an `assets/` folder and add `banner.svg` (included below).  
-4. Replace "Coming Soon" placeholders with repo links and screenshots.
-
-If you want, I can:
-- Fill in your social links and project repo links now (send URLs).  
-- Generate thumbnail images for the project cards.  
-- Create a lightweight "Projects" gallery with clickable cards and images.
