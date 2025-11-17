@@ -6,7 +6,7 @@
 Data Analyst | Financial Dashboards | Digital Marketing | Product Development
 
 <p align="center">
-  <img src="./assets/banner.svg" alt="Tinyiko Masinga banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/tmasinga/tmasinga/main/tmasinga.png" alt="Portfolio Banner" width="100%">
 </p>
 
 <p align="center">
